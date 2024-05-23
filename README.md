@@ -1,8 +1,8 @@
 leetcode
 =========
-- [] javascript
-- [] c
-	- [x] 88 merge
-- [] cpp
-- [] go
+- [ ] javascript
+- [ ] c
+	- [ ] 88 merge, ongoing, 5.23.2024
+- [ ] cpp
+- [ ] go
 
